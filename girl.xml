@@ -2,9 +2,9 @@
 IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
 --><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel>
 <title>Little Notes - girl</title><link>https://github.com/Sunnie1122/little-notes-updates</link><description>Signed application updates</description><language>zh-CN</language>
-<item><title>悄悄话 0.6.2</title><sparkle:version>11</sparkle:version><sparkle:shortVersionString>0.6.2</sparkle:shortVersionString><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion><description>小窝新增独立桌面模式，拖动标题可移动整个房间，支持放大缩小，布置与对话面板按需展开。保留家具、双人动作及同步。</description>
-<enclosure url="https://raw.githubusercontent.com/Sunnie1122/little-notes-updates/main/little-notes-girl-0.6.2.zip" length="16766395" type="application/octet-stream" sparkle:edSignature="0YzFmHOCz7KVjdkRDVcOkkUOnZhLkmQ3U8jPEh8nkKsSi5BERvy392dIii4DV/25E9T7JkyEzIwPLxsz7/fsBw=="></enclosure></item>
+<item><title>悄悄话 0.6.3</title><sparkle:version>12</sparkle:version><sparkle:shortVersionString>0.6.3</sparkle:shortVersionString><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion><description>桌面小人新增照片发送，支持 JPG、PNG、WebP，预览后发送，可附文字。自动压缩，来信点击后才显示照片。双方需要更新至 0.6.3。</description>
+<enclosure url="https://raw.githubusercontent.com/Sunnie1122/little-notes-updates/main/little-notes-girl-0.6.3.zip" length="16767994" type="application/octet-stream" sparkle:edSignature="+xpp1kVCn/USfWeMSBJ1mpni9scWuA3+GQsv6r6sZb60JbArTFnQiWt1PteC41dqj/wk6VkeV1veoZauarQYCg=="></enclosure></item>
 </channel></rss><!-- sparkle-signatures:
-edSignature: iBHeheZzvUNcgfzb7e+OSHsPeBgjToXVzUlbEHzciEjuSjhuimcIl557mbibqVqQN2m5fDxC/9KQEC71vI7EDQ==
-length: 1271
+edSignature: fRagoAQjegX6C8FdZHNttZOwts+nEfrCj35aHeTOz9ZFRtKIyH4gwr8uKz303RTEHBWAwV87wTDgIb4ahWUXDQ==
+length: 1276
 -->
