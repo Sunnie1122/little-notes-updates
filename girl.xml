@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><!-- sparkle-sign-warning:
+IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel>
+<title>Little Notes - girl</title><link>https://github.com/Sunnie1122/little-notes-updates</link><description>Signed application updates</description><language>zh-CN</language>
+<item><title>悄悄话 0.5.1</title><sparkle:version>7</sparkle:version><sparkle:shortVersionString>0.5.1</sparkle:shortVersionString><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion><description>自动更新；自定义小人、消息和提醒大小；上传小人、消息框背景和小贴纸；所有来信点击后查看。</description>
+<enclosure url="https://raw.githubusercontent.com/Sunnie1122/little-notes-updates/main/little-notes-girl-0.5.1.zip" length="4844124" type="application/octet-stream" sparkle:edSignature="UyGsy6ieE94P7sRIDe20slXVWmg8/Bd1GL1SCyjo6VTY1PqWJMEB3skol0LK3TIXmBLkJxubx87iL1q8Owy8BA=="></enclosure></item>
+</channel></rss><!-- sparkle-signatures:
+edSignature: 22dwFE1eQS3ut2Y5ql1mlGbt1hf9SC81mqS7Xx2OvUpNxp6dV19np7n6Ys8gY7cK34fFNaB3hmmJiQ8GjxSMAg==
+length: 1236
+-->
