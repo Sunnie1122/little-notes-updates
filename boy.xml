@@ -2,9 +2,9 @@
 IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
 --><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel>
 <title>Little Notes - boy</title><link>https://github.com/Sunnie1122/little-notes-updates</link><description>Signed application updates</description><language>zh-CN</language>
-<item><title>悄悄话 0.5.1</title><sparkle:version>7</sparkle:version><sparkle:shortVersionString>0.5.1</sparkle:shortVersionString><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion><description>自动更新；自定义小人、消息和提醒大小；上传小人、消息框背景和小贴纸；所有来信点击后查看。</description>
-<enclosure url="https://raw.githubusercontent.com/Sunnie1122/little-notes-updates/main/little-notes-boy-0.5.1.zip" length="4844124" type="application/octet-stream" sparkle:edSignature="heBoqRfZsjdQnHPTUAeFik19Ha+uvtYwFnKHpd70r1bnwB8Ugds6sfkagmhS4TFEb+4oKsUHr8v7bLKJRAwqCQ=="></enclosure></item>
+<item><title>悄悄话 0.6.0</title><sparkle:version>9</sparkle:version><sparkle:shortVersionString>0.6.0</sparkle:shortVersionString><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion><description>全新铅笔画情侣小人；小窝含24款家具、36种样式，可拖动布置；自主生活、双人动作、可编辑对话与加密同步。</description>
+<enclosure url="https://raw.githubusercontent.com/Sunnie1122/little-notes-updates/main/little-notes-boy-0.6.0.zip" length="16765071" type="application/octet-stream" sparkle:edSignature="rr6ZHYwXTEfdLzH5/JiMD5zW+GyOyr0TWF2QVGETqt/ja4MV4jgnmJY9U75HT0kYqtx2Gh++HstWxSZloV3fBg=="></enclosure></item>
 </channel></rss><!-- sparkle-signatures:
-edSignature: hwZ8xMqRW7QC2xAO+cskhHe8CEToxFCp9myBHL2I4+g+je49hNibpaTRUYpATvFqpHxNiXjOL4hCm2MuQLz6AQ==
-length: 1234
+edSignature: qPBI30EnEx7jU2tprjwZp8W51viFs29O6JSCo8JyWtXDoSoShlEF4BfQ7Ccpb9gl+u99EyGqlILB1lOkNU0vAg==
+length: 1251
 -->
