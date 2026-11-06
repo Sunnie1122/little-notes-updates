@@ -2,9 +2,9 @@
 IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
 --><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel>
 <title>Little Notes - girl</title><link>https://github.com/Sunnie1122/little-notes-updates</link><description>Signed application updates</description><language>zh-CN</language>
-<item><title>悄悄话 0.8.8</title><sparkle:version>31</sparkle:version><sparkle:shortVersionString>0.8.8</sparkle:shortVersionString><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion><description>新增每日新闻、读书导读与双方日记，中英文界面切换。小人清醒时定期在头顶聊天；做饭12秒、到餐桌后吃饭20秒、绘画6秒并更换作品。重绘日夜家具布局，加入餐桌、报纸筒并调整人物路线与遮挡，改善走路和拿道具动作，修复更新提示挡住桌面窗口的问题。保留配对、聊天、人物方案和个人设置。双方需更新，新闻由已运行的每日任务整理后通过在线配对同步。</description>
-<enclosure url="https://github.com/Sunnie1122/little-notes-updates/releases/download/v0.8.8/little-notes-girl-0.8.8.zip" length="51121831" type="application/octet-stream" sparkle:edSignature="kpIhwOflKc9nxpdxVZChg5wxbQMV+688EqHlmD7qxKAHpfb/cMZXNOomqQXFoUAcdetZjGFbjiEy7tn7VW+mAg=="></enclosure></item>
+<item><title>悄悄话 0.8.9</title><sparkle:version>32</sparkle:version><sparkle:shortVersionString>0.8.9</sparkle:shortVersionString><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion><description>日记本移到沙发坐垫，支持逐页翻阅、键盘翻页与两套作者主题：咩的玫瑰手稿、yc的伯爵札记。新日记结合小窝当天实际记录的生活和读书感想，保留已有日记。报纸筒改为矮宽的乡村胡桃木报刊架。房间与其他家具保持原样。</description>
+<enclosure url="https://github.com/Sunnie1122/little-notes-updates/releases/download/v0.8.9/little-notes-girl-0.8.9.zip" length="52719842" type="application/octet-stream" sparkle:edSignature="Zh1OELpfpumd9YxPPzhu4M7gE+gcxHnOOvveDFO44fqJdroudeoj4OlaAFRqLXZfV9oPvCq112JHe6/E5ngbDg=="></enclosure></item>
 </channel></rss><!-- sparkle-signatures:
-edSignature: uGD/Pgio2viSeOBGZ2lBQyJFrzS/EM3G4iA6Gle6+fe+Kpwh94MUlmUb52os+nsf1c0/Pf7JXSaCYwl5n4q1BA==
-length: 1599
+edSignature: Of29kuXtOv/sa0WxWiT9MemFNxh22wTTYzLBr0TVc59pip/wIM+waNeH+4VY3oQqEyJWwMaGvnnCoC7sEyTyDQ==
+length: 1413
 -->
