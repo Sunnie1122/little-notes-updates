@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?><!-- sparkle-sign-warning:
 IMPORTANT: This file was signed by Sparkle. Any modifications to this file requires re-signing this file with generate_appcast or sign_update! The signed signature will be embedded at the end of this file.
---><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel><title>Little Notes - boy</title><link>https://github.com/Sunnie1122/little-notes-updates</link><description>Signed application updates</description><language>zh-CN</language><item><title>悄悄话 0.8.2</title><sparkle:version>25</sparkle:version><sparkle:shortVersionString>0.8.2</sparkle:shortVersionString><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion><description>修复离线旧状态残留。新增学习、网页与视频状态，以及五种小人心情；离线心情保留一天。待机只显示小人和状态，双击展开日常菜单。文字照片仍双击查看，保留配对与聊天记录。</description><enclosure url="https://github.com/Sunnie1122/little-notes-updates/releases/download/v0.8.2/little-notes-boy-0.8.2.zip" length="39393505" type="application/octet-stream" sparkle:edSignature="XwpsdZ5J1Zs4D5tyK7+4UhA14xR0b+QzrWSZD/h1Jgbf/zOMDcrdRMT+GDjyH0SAQAauCWb7MS7HLTb/FgaDCg=="></enclosure></item></channel></rss><!-- sparkle-signatures:
-edSignature: lVz4jdvCsAHZMzyUbW8Y3FIvCL/qVU9QjkOCuTTI2Ui3yQBDaaOPnaInkvNfuZcNdqac43x35jB5omOMuGHFCg==
-length: 1348
+--><rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0"><channel>
+<title>Little Notes - boy</title><link>https://github.com/Sunnie1122/little-notes-updates</link><description>Signed application updates</description><language>zh-CN</language>
+<item><title>悄悄话 0.8.8</title><sparkle:version>31</sparkle:version><sparkle:shortVersionString>0.8.8</sparkle:shortVersionString><sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion><description>新增每日新闻、读书导读与双方日记，中英文界面切换。小人清醒时定期在头顶聊天；做饭12秒、到餐桌后吃饭20秒、绘画6秒并更换作品。重绘日夜家具布局，加入餐桌、报纸筒并调整人物路线与遮挡，改善走路和拿道具动作，修复更新提示挡住桌面窗口的问题。保留配对、聊天、人物方案和个人设置。双方需更新，新闻由已运行的每日任务整理后通过在线配对同步。</description>
+<enclosure url="https://github.com/Sunnie1122/little-notes-updates/releases/download/v0.8.8/little-notes-boy-0.8.8.zip" length="51121830" type="application/octet-stream" sparkle:edSignature="MPozaRYI8B4eGjb9dkII73zkUHoqi9GUI3QjyyNupStmUt1pt0As4+hvMXP6ktoVUsC9RB/Eq5n2qp0dRtBFCw=="></enclosure></item>
+</channel></rss><!-- sparkle-signatures:
+edSignature: x88qEKEes7hrFrCTOsnopqwfQi2RIR+G99ZsC+VO0EoZQmzvdocJdPM8V2PBWCf0V1Gmd5aAWcaicR20PgoICg==
+length: 1597
 -->
